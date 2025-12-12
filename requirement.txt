@@ -3,3 +3,29 @@ praw
 pandas
 transformers
 torch
+
+//////////////
+# Reddit API
+praw==7.7.1
+
+# Machine Learning / NLP
+transformers==4.35.2
+torch==2.1.2
+sentencepiece==0.1.99
+
+# Web Framework
+streamlit==1.29.0
+
+# Data Processing
+pandas==2.1.4
+numpy==1.26.2
+
+# Visualization
+plotly==5.18.0
+
+# Utilities
+python-dotenv==1.0.0
+
+# Optional: GPU acceleration
+# Uncomment if you have CUDA-capable GPU
+# torch==2.1.2+cu118 --extra-index-url https://download.pytorch.org/whl/cu118

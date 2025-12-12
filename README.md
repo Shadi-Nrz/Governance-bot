@@ -68,17 +68,7 @@ reddit-moderation-dashboard/
 **Controversy** (0-1): Community debate + polarizing language  
 **Aggregate Risk** = 0.6×T + 0.2×P + 0.2×C (customizable)
 
-## Performance
 
-**Validation** (150 posts, threshold 0.4):  
-- Precision: 0.79  
-- Recall: 0.84  
-- F1: 0.81
-
-**Multi-signal outperforms single metrics**:  
-- Toxicity only: F1 0.66  
-- Polarity only: F1 0.70  
-- Controversy only: F1 0.69
 
 ## Troubleshooting
 
